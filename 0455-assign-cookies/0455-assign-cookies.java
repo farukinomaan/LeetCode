@@ -3,16 +3,15 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int childIndex = 0;
-        int cookieIndex = 0;
+        int firstpointer=0;
+        int secondpointer=0;
 
-        while (childIndex < g.length && cookieIndex < s.length) {
-           
-            if (s[cookieIndex] >= g[childIndex]) {
-                childIndex++;
+        while(firstpointer<g.length && secondpointer<s.length){
+            if(s[secondpointer]>= g[firstpointer]){
+                firstpointer++;
             }
-            cookieIndex++;
+            secondpointer++;
         }
-        return childIndex;
+        return firstpointer;
     }
 }
