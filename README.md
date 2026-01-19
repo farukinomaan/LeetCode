@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/farukinomaan/LeetCode/tree/master/1732-find-the-highest-altitude) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/farukinomaan/LeetCode/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/farukinomaan/LeetCode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/farukinomaan/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
