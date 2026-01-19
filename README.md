@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/farukinomaan/LeetCode/tree/master/0455-assign-cookies) |
+| [1732-find-the-highest-altitude](https://github.com/farukinomaan/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/farukinomaan/LeetCode/tree/master/0455-assign-cookies) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/farukinomaan/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
