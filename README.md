@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/farukinomaan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farukinomaan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/farukinomaan/LeetCode/tree/master/0035-search-insert-position) |
 | [0455-assign-cookies](https://github.com/farukinomaan/LeetCode/tree/master/0455-assign-cookies) |
 | [1732-find-the-highest-altitude](https://github.com/farukinomaan/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/farukinomaan/LeetCode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/farukinomaan/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
