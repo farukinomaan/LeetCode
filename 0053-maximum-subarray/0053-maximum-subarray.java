@@ -1,3 +1,7 @@
+// #Top 50 OA
+// Nomaan Faruki
+// Optimal Solution
+
 class Solution {
     public int maxSubArray(int[] nums) {
         int max=0;
