@@ -1,4 +1,4 @@
-// Nomaan Farauki
+// Nomaan Faruki
 
 import java.util.ArrayList;
 import java.util.List;
