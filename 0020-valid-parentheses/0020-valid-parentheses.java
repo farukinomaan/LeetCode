@@ -1,3 +1,5 @@
+// Top 50 OA
+// Nomaan Faruki
 class Solution {
     public boolean isValid(String s) {
         Stack <Character> stack = new Stack<>();
