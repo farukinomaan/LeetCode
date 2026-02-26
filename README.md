@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/farukinomaan/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/farukinomaan/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/farukinomaan/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/farukinomaan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/farukinomaan/LeetCode/tree/master/0242-valid-anagram) |
 | [3713-longest-balanced-substring-i](https://github.com/farukinomaan/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/farukinomaan/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/farukinomaan/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
