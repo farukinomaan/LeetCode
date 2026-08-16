@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/farukinomaan/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/farukinomaan/LeetCode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/farukinomaan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/farukinomaan/LeetCode/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/farukinomaan/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/farukinomaan/LeetCode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/farukinomaan/LeetCode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/farukinomaan/LeetCode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/farukinomaan/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
