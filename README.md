@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/farukinomaan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/farukinomaan/LeetCode/tree/master/0739-daily-temperatures) |
 | [1732-find-the-highest-altitude](https://github.com/farukinomaan/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/farukinomaan/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/farukinomaan/LeetCode/tree/master/0455-assign-cookies) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/farukinomaan/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/farukinomaan/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/farukinomaan/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/farukinomaan/LeetCode/tree/master/0455-assign-cookies) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/farukinomaan/LeetCode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Prefix Sum
 |  |
 | ------- |
